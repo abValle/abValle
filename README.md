@@ -8,6 +8,10 @@
     <p>• 📚 I'm a full stack web developer</b></p>
     <p>• 📚 Currently learning: <b>Front-end development with React.js, trying to get my first experience as a developer.</b></p>
     <p>• 📫 How to reach me:</p>
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/allan-barros-valle/">
+	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a style="margin-left: 10px;"  target="_blank" href="https://wa.me/5535999568570">
+	<img src="https://img.icons8.com/doodle/40/000000/whatsapp--v2.png"></a>
 </div><br>
 
 <div>
