@@ -2,12 +2,13 @@
 <!-- ![GitHub followers](https://img.shields.io/github/followers/abValle?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/abValle?style=social) 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abValle.repoName) <img src="https://komarev.com/ghpvc/?username=abValle" alt="abValle" /> -->
 
+
 <h1 align="left">Hi there 👋🏽, I'm Allan Valle</h1>
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
     <p>• 📚 I'm a full stack web developer</b></p>
     <p>• 📚 Currently learning: <b>Front-end development with React.js, trying to get my first experience as a developer.</b></p>
-    <p>• 📫 How to reach me:</p>
+    <p>• 📫 How to reach me: allanvalle@outlook.com</p>
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/allan-barros-valle/">
 	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;"  target="_blank" href="https://wa.me/5535999568570">
