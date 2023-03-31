@@ -1,5 +1,14 @@
 
-<!-- ![GitHub followers](https://img.shields.io/github/followers/abValle?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/abValle?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abValle.repoName) <img src="https://komarev.com/ghpvc/?username=abValle" alt="abValle" /> -->
+<!-- ![GitHub followers](https://img.shields.io/github/followers/abValle?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/abValle?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abValle.repoName) <img src="https://komarev.com/ghpvc/?username=abValle" alt="abValle" /> -->
+
+<h1 align="left">Hi there 👋🏽, I'm Allan Valle</h1>
+<div align="left">
+    <h3>👨🏽‍💻 About me:</h3>
+    <p>• 📚 I'm a full stack web developer</b></p>
+    <p>• 📚 Currently learning: <b>Front-end development with React.js, trying to get my first experience as a developer.</b></p>
+    <p>• 📫 How to reach me:</p>
+</div><br>
 
 <div>
   <samp>
@@ -35,6 +44,9 @@
       </a>
       &emsp;
       <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
+      </a>
+      &emsp;
+      <a href="https://github.com/abValle"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white"/>
       </a>
       &emsp;
       <a href="#" target="_blank"> 
