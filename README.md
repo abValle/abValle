@@ -15,11 +15,15 @@
       </a>
       &emsp;
       <a href="https://ruby-doc.org/" target="_blank"> 
-        <img alt="RubyOnRails" src="https://img.shields.io/badge/Ruby-CC0000.svg?logo=ruby&logoColor=white">
+        <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby-CC0000.svg?logo=ruby&logoColor=white">
       </a>
       &emsp; 
       <a href="https://www.w3.org/html/" target="_blank"> 
        <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+      </a>
+      &emsp; 
+      <a href="https://www.figma.com/" target="_blank"> 
+       <img alt="Figma" src="https://img.shields.io/badge/Figma%20-F24E1E.svg?logo=figma&logoColor=white">
       </a>
       &emsp;
       <a href="https://www.w3schools.com/css/" target="_blank">
@@ -33,7 +37,23 @@
       <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
       </a>
       &emsp;
-      <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white">       </a>
+      <a href="#" target="_blank"> 
+        <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white">
+      </a>
+      &emsp;
+      <a href="https://sinatrarb.com/" target="_blank"> 
+        <img alt="Sinatra" src="https://img.shields.io/badge/Sinatra-000000.svg?logo=rubysinatra&logoColor=white">
+      </a>
+      &emsp;
+      <a href="https://webpack.js.org/" target="_blank"> 
+        <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=white">
+      </a>
+      &emsp;
+      <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=githubpages&logoColor=white"></a>
+      &emsp;
+      <a href="https://www.postgresql.org/" target="_blank"> 
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
+      </a>
       &emsp;
       <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
       &emsp;
