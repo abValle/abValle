@@ -84,24 +84,24 @@
     <h3 align="center">Languages</h3>
     <p align="center">
       <a href="https://github.com/abValle/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abValle&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abValle&theme=gruvbox&layout=compact"
         alt="abValle :: overall Top Langs " />
       </a>
     </p>
     <p align="center">
       <a href="https://github.com/abValle/">
-        <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abValle&theme=gruvbox&layout=compact&hide_border=true" alt="abValle :: Top Langs by commit" />
+        <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abValle&theme=gruvbox&layout=compact" 		 alt="abValle :: Top Langs by commit" />
       </a>
     </p>
     <h3 align="center">Statistics</h3>
     <p align="center">
       <a href="https://github.com/abValle/">
-        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abValle&show_icons=true&theme=gruvbox&hide_border=true" />
+        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abValle&show_icons=true&theme=gruvbox" />
       </a>
     </p>
     <p align="center">
       <a href="https://github.com/abValle/">
-        <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abValle&theme=gruvbox&hide_border=true" />
+        <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abValle&theme=gruvbox" />
       </a>
     </p>
     <br>
