@@ -1,6 +1,6 @@
 
-<!-- ![GitHub followers](https://img.shields.io/github/followers/abValle?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/abValle?style=social) 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abValle.repoName) <img src="https://komarev.com/ghpvc/?username=abValle" alt="abValle" /> -->
+![GitHub followers](https://img.shields.io/github/followers/abValle?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/abValle?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abValle.repoName) <img src="https://komarev.com/ghpvc/?username=abValle" alt="abValle"/>
 
 
 <h1 align="left">Hi there 👋🏽, I'm Allan Valle</h1>
